@@ -24,7 +24,7 @@ Add Notes, View Notes, Edit Notes, Delete Nodes
 ### Resources used:
 
 - Next.js: https://nextjs.org
-- Kinde: https://dub.sh/xeU8r3v
+- Kinde: https://kinde.com/
 - Tailwind.css: https://tailwindcss.com
 - Shadcn/UI: https://ui.shadcn.com
 - Stripe: https://stripe.com
