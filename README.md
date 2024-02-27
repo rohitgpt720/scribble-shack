@@ -2,24 +2,22 @@
 
 ### Features:
 
-- nextjs App Router
+- Add Notes, View Notes, Edit Notes, Delete Nodes
+- Next.js App Router
 - Kinde Authentication
 - Passwordless Auth
-- OAuth (Google and GitHub)
+- Google OAuth
 - supabase Database
 - prisma Orm
 - Styling with tailwindcss and shadcn UI
-- Change the color scheme to your liking
+- Choose the theme as per your liking from 7 themes
 - stripe for subscription handling
 - Implementation of Stripe Webhooks
-- Deployment to vercel
-
-Pending States
-Cache Revalidation
-Stripe Customer Portal
-Stripe Checkout page
-Server side implementation
-Add Notes, View Notes, Edit Notes, Delete Nodes
+- Pending States
+- Cache Revalidation
+- Stripe Checkout page
+- Server-side implementation
+- Deployed and Live in Vercel
 
 ### Resources used:
 
